@@ -30,6 +30,6 @@ This script allows you to mantain multiple discord accounts online with a random
 ```
 #
 ### Example
-![Example](https://i.imgur.com/heJGzyL.png)
+![Example](https://i.imgur.com/FDgO57S.png)
 
 [Discord](https://discord.gg/undesync)
