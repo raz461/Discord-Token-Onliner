@@ -1,0 +1,12 @@
+{
+    "games": [
+        "Minecraft",
+        "Fortnite",
+        "Rainbow Six Siege",
+        "Counter-Strike 2",
+        "Grand Theft Auto V",
+        "League of Legends"
+    ],
+    "status": "random",
+    "changeRate": 100000
+}

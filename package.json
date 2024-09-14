@@ -1,0 +1,16 @@
+{
+  "name": "discord-token-onliner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "raz461",
+  "license": "ISC",
+  "description": ""
+}
