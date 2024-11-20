@@ -2,7 +2,10 @@ const fs = require('fs');
 const { info, error } = require('../modules/logs');
 
 function getTokens(filePath) {
-    return fs.readFileSync(filePath, 'utf-8').split('\n').filter(token => token.trim() !== '');
+    return fs.readFileSync(filePath, 'utf-8')
+    .split('\n')
+    .map(token => token.trim())
+    .filter(token => token.length > 0);
 }
 
 function saveDeadToken(filePath, token) {
